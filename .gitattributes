@@ -1,0 +1,4 @@
+*.py linguist-language=Python
+*.yaml linguist-language=Python
+*.log linguist-language=Python
+*.ipylib linguist-language=Jupyter Notebook

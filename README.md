@@ -17,7 +17,7 @@ python detect.py --weights YS-A/yolov5-6.2/runs/exp/last.pt --save.txt --source 
                                                                          'path/*.jpg'                    # glob
 ```
 + batch inference (replace your own corrected images path/prompts path):
-```
+```python
 cd YS-A/segment-anything-main
 python end-to-end.py
 ```

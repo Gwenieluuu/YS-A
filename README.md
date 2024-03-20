@@ -10,7 +10,7 @@ An end-to-end automatic algal area inversion model:
 ```python
 cd YS-A/yolov5-6.2
 pip install -r requirements.txt
-python detect.py --weights YS-A/yolov5-6.2/runs/exp/last.pt --save.txt --source 0                        
+python detect.py --weights YS-A/yolov5-6.2/runs/exp/last.pt --save-txt --source 0                        
                                                                          img.jpg                         # image
                                                                          screen                          # screenshot
                                                                          path/                           # directory
